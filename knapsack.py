@@ -149,7 +149,7 @@ if __name__ == "__main__":
     maxVolume = 0
     popSize = 100
     """read the file and initialize the variables"""
-    with open("knapsack_1.txt", "r+") as file:
+    with open("knapsack_3.txt", "r+") as file:
         temp, maxVolume = file.readline().split(" ")
         temp = int(temp)
         maxVolume = int(maxVolume)
@@ -159,11 +159,11 @@ if __name__ == "__main__":
             volume.append(int(d[0]))
             weights.append(int(d[1]))
 
-    fit = knapsack(weights, volume, maxVolume, popSize, 100, 300, 6300)
+    fit = knapsack(weights, volume, maxVolume, popSize, 100, 800, 6300)
     plt.plot(fit)
     plt.ylabel('Values')
     plt.xlabel('Generation')
-    plt.savefig('knapsack.png')
+    plt.savefig('knapsack_3.png')
     plt.show()
     # best = knapsack(weights, volume, maxVolume, popSize, 100, 800, 6300)
     # total = 0

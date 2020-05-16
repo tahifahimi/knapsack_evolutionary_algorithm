@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bzyiXMGNhAShh69nvyaatpEQjR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -74,21 +78,21 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="137" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1589649358313" />
-    <state width="1344" height="187" key="GridCell.Tab.0.bottom" timestamp="1589649381103">
+    <state width="1344" height="187" key="GridCell.Tab.0.bottom" timestamp="1589649701149">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1344" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1589649381103" />
-    <state width="1344" height="187" key="GridCell.Tab.0.center" timestamp="1589649381102">
+    <state width="1344" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1589649701149" />
+    <state width="1344" height="187" key="GridCell.Tab.0.center" timestamp="1589649701149">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1344" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1589649381102" />
-    <state width="1344" height="187" key="GridCell.Tab.0.left" timestamp="1589649381102">
+    <state width="1344" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1589649701149" />
+    <state width="1344" height="187" key="GridCell.Tab.0.left" timestamp="1589649701148">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1344" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1589649381102" />
-    <state width="1344" height="187" key="GridCell.Tab.0.right" timestamp="1589649381103">
+    <state width="1344" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1589649701148" />
+    <state width="1344" height="187" key="GridCell.Tab.0.right" timestamp="1589649701149">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1344" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1589649381103" />
+    <state width="1344" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1589649701149" />
   </component>
 </project>
